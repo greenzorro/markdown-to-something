@@ -144,9 +144,9 @@ h2 {
 	background: #eee;
 	border-left: 2px solid darken(#eee, 10%);
 	font-size: 0.8em;
-	p {
-		margin: 0;
-	}
+}
+.rich_text blockquote p:last-of-type {
+	margin: 0;
 }
 .rich_text hr {
 	width: 100%;
