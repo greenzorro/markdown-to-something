@@ -64,6 +64,9 @@ h2 {
 	width: 30em;
 	margin: 5em auto 0;
 }
+.info h2 {
+	padding: 1em 0 0.5em;
+}
 .info p {
 	line-height: 1.5;
 	padding: 0 0 0.8em;
