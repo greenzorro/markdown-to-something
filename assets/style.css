@@ -9,7 +9,7 @@ body { font-family: 'microsoft yahei','stheiti',sans-serif; color: #333; font-si
 
 /*page*/
 a {
-	color: #58b798;
+	color: #31b5bd;
 }
 .container {
 	width: 75em;
@@ -51,7 +51,7 @@ h2 {
 	display: block;
 	padding: 1.2em 0;
 	margin: 2em;
-	border: 1px solid #58b798;
+	border: 1px solid #31b5bd;
 	border-radius: 0.2em;
 	text-align: center;
 	font-size: 0.9em;
@@ -59,7 +59,7 @@ h2 {
 	-webkit-transition: color 0.3s ease-out;
 }
 .buttons a:hover {
-	background: #58b798;
+	background: #31b5bd;
 	color: #fff;
 }
 .info {
@@ -162,7 +162,7 @@ h2 {
 	font-family: Inconsolata, monospace, sans-serif;
 	font-size: 0.85em;
 	white-space: pre-wrap;
-	border: 1px solid #E3EDF3;
+	border: 1px solid #31b5bd;
 	background: #f7f7f9;
 	color: #d14;
 	border-radius: 2px;
@@ -170,7 +170,7 @@ h2 {
 .rich_text pre {
 	box-sizing: border-box;
 	margin: 1.6em 0;
-	border: 1px solid #E3EDF3;
+	border: 1px solid #31b5bd;
 	width: 100%;
 	padding: 10px;
 	font-family: Inconsolata, monospace, sans-serif;
