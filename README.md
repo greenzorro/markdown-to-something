@@ -1,6 +1,6 @@
 markdown-to-something
 =====================
 
-convert markdown to something like html or more
+Convert markdown to html and more
 
 http://greenzorro.github.io/markdown-to-something
